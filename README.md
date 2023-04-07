@@ -4,4 +4,10 @@ Xia L, Chen G, Chen X, et al. Submesoscale Oceanic Eddy Detection in SAR Images 
 
 The links of Baidu Netdisk:
 Website：https://pan.baidu.com/s/18ooH97sjBnIWGPRIRz-izw?pwd=wksv
+
 Password：wksv
+
+
+Reference：
+
+https://github.com/bubbliiiing/yolo3-pytorch
