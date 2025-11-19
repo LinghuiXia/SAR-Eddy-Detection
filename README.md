@@ -9,7 +9,7 @@ Website: https://pan.baidu.com/s/1wZ0Kow4cBqT1Rv40DxAo1Q?pwd=wy34
 
 Password:wy34
 
-For any further inquiries, please contact the first author directly by email(xialinghui007@163.com).
+For any further inquiries, please contact the first author directly by email (xialinghui007@163.com).
 
 Thanks!
 
